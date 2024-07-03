@@ -11,24 +11,21 @@ Detect anomalies and optimize pricing strategies.
 Enhance marketing campaigns and boost customer retention.
 Identify opportunities for upselling and cross-selling.
 By utilizing data cleaning, visualization, and statistical analysis, we aim to inform strategic decisions that will improve sales processes and drive revenue growth.
-## Tech Stack
+## 🛠️Tech Stack
 
-Programming Languages:
-Python
+Programming Language: Python
 
 Libraries:
-
-Pandas (for data manipulation and analysis)
-NumPy (for numerical computations)
-Matplotlib (for data visualization)
+Pandas (for data manipulation and analysis),
+NumPy (for numerical computations),
+Matplotlib (for data visualization) &
 Seaborn (for statistical data visualization)
 
 Data Storage and Management:
 Excel / CSV (for data import/export)
 
 Development Environment: 
-
-Jupyter Notebook / JupyterLab (for interactive data analysis and visualization)
+Jupyter Notebook / JupyterLab (for interactive data analysis and visualization) &
 Anaconda (for managing packages and dependencies)
 
 ## Features
